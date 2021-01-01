@@ -7,7 +7,7 @@
 ## I'm a Student, Developer, and TechLover!
 - 🔭 I’m currently a student!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn PHP, JavaScript, etc.
+- 🥅 2021 Goals: Learn JavaScript, Go, C++ etc.
 - ⚡ Fun fact: I love to play pubg and brawl stars
 
 ### Connect with me:
