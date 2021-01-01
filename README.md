@@ -23,7 +23,6 @@
 <br />
 <br />
 <br />
-<br />
 
 ### Languages and Tools:
 
@@ -44,7 +43,7 @@
 
 <img align="left" alt="Hasibul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hasibulkabir&show_icons=true&hide_border=true" />
 
-[website]: https://hasibul.xyz
+[website]: https://hasibulkobir.me
 [twitter]: https://twitter.com/MdHasibulKabir
 [instagram]: https://instagram.com/HasibulKobir
 [telegram]: https://t.me/HasibulKobir
