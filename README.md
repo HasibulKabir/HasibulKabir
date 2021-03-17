@@ -11,7 +11,11 @@
 
 ## Github Stats
 
-![Hasibul's Github Stats](https://github-readme-stats.vercel.app/api?username=hasibulkabir&show_icons=true&hide_border=true)
+![Hasibul's Github Stats](https://github-readme-stats.vercel.app/api?username=hasibulkabir&show_icons=true&hide_border=true&theme=Gradient)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulkabir)
+
+---
 
 ## Connect with me
 
@@ -22,9 +26,12 @@
 [![Hasibul | Facebook](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
 <!-- [![Hasibul | YouTube](https://img.icons8.com/cotton/48/000000/youtube.png)][youtube] -->
 
+---
+
 ## Languages and Tools
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)
+![Go Lang](https://img.icons8.com/color/48/000000/golang.png)
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 ---
