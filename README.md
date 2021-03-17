@@ -1,36 +1,31 @@
-### Hi there, I'm [Hasibul Kabir][website] 👋
-
+# Hi there, I'm [Hasibul Kabir][website] 👋
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasibulkabir/&title=Profile%20Views)
 
+## I'm a Student, Developer, and TechLover
 
-## I'm a Student, Developer, and TechLover!
 - 🔭 I’m currently a student!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn JavaScript, Go, C++ etc.
 - ⚡ Fun fact: I love to play pubg and brawl stars
 
-### Connect with me:
+## Github Stats
 
-[<img align="left" alt="hasibul.xyz" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="Hasibul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="Hasibul | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Hasibul | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Hasibul | Telegram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Hasibul | Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+![Hasibul's Github Stats](https://github-readme-stats.vercel.app/api?username=hasibulkabir&show_icons=true&hide_border=true)
 
+## Connect with me
 
-<br />
-<br />
-<br />
+[![hasibulkobir.me](https://img.icons8.com/fluent/48/000000/globe.png)][website]
+[![Hasibul | Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
+[![Hasibul | Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
+[![Hasibul | Telegram](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
+[![Hasibul | Facebook](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
+<!-- [![Hasibul | YouTube](https://img.icons8.com/cotton/48/000000/youtube.png)][youtube] -->
 
-### Languages and Tools:
+## Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
-
-<br />
-<br />
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 ---
 
@@ -40,8 +35,9 @@
 
 ---
 
+### 🎶 Playing on spotify
 
-<img align="left" alt="Hasibul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hasibulkabir&show_icons=true&hide_border=true" />
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1zq2x27de7vmt8nc7my9st8fg&cover_image=true&theme=default)
 
 [website]: https://hasibulkobir.me
 [twitter]: https://twitter.com/MdHasibulKabir
