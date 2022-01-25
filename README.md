@@ -1,4 +1,4 @@
-# Hi there, I'm [Hasibul Kabir][website] 👋
+# Hi there, I'm Hasibul Kabir 👋
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasibulkabir/&title=Profile%20Views)
 
@@ -19,7 +19,6 @@
 
 ## Connect with me
 
-[![hasibulkobir.me](https://img.icons8.com/fluent/48/000000/globe.png)][website]
 [![Hasibul | Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
 [![Hasibul | Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
 [![Hasibul | Telegram](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
@@ -36,17 +35,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-### 🎶 Playing on spotify
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1zq2x27de7vmt8nc7my9st8fg&cover_image=true&theme=default)
-
-[website]: https://hasibulkobir.me
 [twitter]: https://twitter.com/MdHasibulKabir
 [instagram]: https://instagram.com/HasibulKobir
 [telegram]: https://t.me/HasibulKobir
